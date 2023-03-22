@@ -1,0 +1,29 @@
+ [
+    {
+        "set_details": {
+            "abbreviation": "SNC",
+            "name": "Streets of New Capenna",
+            "mtggoldfish_uri":"https://www.mtggoldfish.com/sets/Streets+of+New+Capenna/All+Cards#paper",
+            "trims": [
+                "Panorama",
+                "Borderless",
+                "Showcase",
+                "Bundle",
+                "Extended",
+                "Concept praetor",
+                "Phyrexian",
+                "Oil Slick",
+                "Borderless - Step and Compleat ",
+                "Planeswalker stamp",
+                "Prerelease",
+                "Schematics",
+                "Retro",
+                "Stained glass",
+                "Japanese magic 30",
+                "Promo pack",
+                "Textured foil",
+                "Magic 30"
+            ]
+        }
+    }
+]
